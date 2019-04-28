@@ -11,7 +11,7 @@ class LinearInTest {
   private static Object[][] linearIn() {
     return new Object[][]{
 
-        {true, new int[]{2,2,2,2,2}, new int[]{2, 2}}
+        {true, new int[]{2, 2, 4, 4, 6, 6}, new int[]{2, 4}}
 
     };
   }
